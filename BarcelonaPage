@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>FC Barcelona</title>
+  	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+  </head>
+  <h1><center>FC Barcelona</h1></center>
+  <img id="logo" src="Barcelona.jpg" class="image-responsive" alt="responsive img">
+  <div class="row">
+        <div class="col-md-6 text-center">
+          <p><h3>Schedule</h3></p>
+          <table align="center" class="table" style="width:75%">
+  			<tr>
+  				<td><strong>Date</strong></td>
+    			<td><strong>Home</strong></td>
+    			<td><strong>Away</strong></td>
+    			</tr>
+  			<tr>
+    			<td>11/21</td>
+    			<td>Real Madrid</td>
+    			<td>Barcelona</td>		
+  				</tr>
+  			<tr>
+    			<td>11/24</td>
+    			<td>Barcelona</td>
+    			<td>Roma</td>		
+  			</tr>
+  			<tr>
+    			<td>11/28</td>
+    			<td>Barcelona</td>
+    			<td>Real Sociedad</td>		
+  			</tr>
+		  </table>
+        </div>
+        <div class="col-md-6 text-center">
+          <p><h3>Roster</h3></p>
+          <table align="center" class="table" style="width:75%">
+  			<tr>
+  				<td><strong>Number</strong></td>
+    			<td><strong>Position</strong></td>
+    			<td><strong>Name</strong></td>
+    			</tr>
+  			<tr>
+    			<td>1</td>
+    			<td>GK</td>	
+    			<td>Marc-André Ter Stegen</td>
+  				</tr>
+  			<tr>
+    			<td>2</td>
+    			<td>DF</td>
+    			<td>Douglas Pereira Dos Santos</td>		
+  			</tr>
+  			<tr>
+    			<td>3</td>
+    			<td>DF</td>
+    			<td>Gerard Piqué Bernabeu</td>		
+  			</tr>
+		  </table>
+        </div>
